@@ -4,6 +4,11 @@
 
 
 ### Example:
+```sh
+npm install --save fill-murray-react
+# or
+yarn add fill-murray-react
+```
 ```jsx
 import FillMurray from 'fill-murray'
 

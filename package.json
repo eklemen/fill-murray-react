@@ -20,6 +20,11 @@
     "name": "eklemen",
     "email": "ejklemen@gmail.com"
   },
+  "repository": { 
+    "type" : "git",
+    "url" : "https://github.com/eklemen/fill-murray-react"
+  },
+  "keywords": ["filler", "placeholder", "image", "react", "bill", "murray"],
   "devDependencies": {
     "babel-cli": "^6.24.1",
     "babel-core": "^6.24.1",
