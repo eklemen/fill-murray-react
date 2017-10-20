@@ -1,6 +1,6 @@
 {
   "name": "fill-murray-react",
-  "version": "0.0.2",
+  "version": "1.0.0",
   "description": "Filler image with Bill",
   "main": "build/index.js",
   "peerDependencies": {
